@@ -33,13 +33,14 @@
     ![Select level](./images/difficulty-level.jpg)
 
 6. You can select among three types of level
-    - Beginner level by pressing <kbd>0</kbd> + <kbd>Enter</kbd> ![Beginner Level](./images/Mineswepper(Beginner).jpg)
+    - Beginner level by pressing <kbd>0</kbd> & <kbd>Enter</kbd> ![Beginner Level](./images/Mineswepper(Beginner).jpg)
     
-    - Intermdiate level by pressing <kbd>1</kbd> + <kbd>Enter</kbd> ![Intermediate Level](./images/Mineswepper(Intermediate).jpg)
+    - Intermdiate level by pressing <kbd>1</kbd> & <kbd>Enter</kbd> ![Intermediate Level](./images/Mineswepper(Intermediate).jpg)
 
-    - Advanced level by pressing <kbd>2</kbd> + <kbd>Enter</kbd> ![Advance Level](./images/Mineswepper(Advanced).jpg)
+    - Advanced level by pressing <kbd>2</kbd> & <kbd>Enter</kbd> ![Advance Level](./images/Mineswepper(Advanced).jpg)
 
 7. Take a look at the gameplay: 
     ![Gameplay](./images/Mineswepper-Gameplay.jpg)
 
 ## ENJOY THE GAME
+---
